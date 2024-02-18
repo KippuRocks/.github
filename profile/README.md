@@ -8,9 +8,9 @@
 
 ## Meet our applications
 
-- 🎟️ [Saifu (財布)](https://github.com/KippuRocks/saifu): View your access to events, transfer and resell.
-- 🚪 [Iriguchi (入口)](https://github.com/KippuRocks/iriguchi): Controls access on entrypoints, checks-in your event attendees.
-- 🪩 [Ibento (イベント)](https://github.com/KippuRocks/ibento): Register and manage the events you organize.
+- 🎟️ [Saifu (財布)](https://github.com/KippuRocks/kippu2/tree/main/apps/saifu): View your access to events, transfer and resell.
+- 🚪 [Iriguchi (入口)](https://github.com/KippuRocks/kippu2/tree/main/apps/iriguchi): Controls access on entrypoints, checks-in your event attendees.
+- 🪩 [Ichiba (市場)](https://github.com/KippuRocks/kippu2/tree/main/apps/ichiba): Marketplace to buy tickets of events.
 
 <h4 align="center" style="font-size: 2em">
     Ticketto

@@ -11,7 +11,7 @@
 - 🎟️ [Saifu (財布)](https://github.com/KippuRocks/saifu/): View your access to events, transfer and resell.
 - 🚪 [Iriguchi (入口)](https://github.com/KippuRocks/iriguchi): Controls access on entrypoints, checks-in your event attendees.
 - 🪩 [Ibento (イベント)](https://github.com/KippuRocks/ibento): Registers and manages events.
-- 🪩 [Ichiba (市場)](https://github.com/KippuRocks/ichiba): Marketplace to buy tickets of events. (TBD)
+- 🛒 [Ichiba (市場)](https://github.com/KippuRocks/ichiba): Marketplace to buy tickets of events. (TBD)
 
 
 <h4 align="center" style="font-size: 2em">
